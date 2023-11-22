@@ -1,2 +1,2 @@
 # Basic-Angular-Website
-Angular: Project 1
+Angular Project 1
